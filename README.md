@@ -1,5 +1,6 @@
 # four-Coin-Connect-Game
 This game is to be played between two players.
+
 The rules of game are: 
 1. Two players have different color chips
 2. When playing chips will fall down the colum to settle in last blank
